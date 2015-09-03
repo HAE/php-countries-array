@@ -190,7 +190,7 @@ class CountriesArray{
         "OM" => array( 'alpha2'=>'OM', 'alpha3'=>'OMN', 'num'=>'512', 'isd'=> '968', "name" => "Oman", "continent" => "Asia"),
         "PK" => array( 'alpha2'=>'PK', 'alpha3'=>'PAK', 'num'=>'586', 'isd'=> '92', "name" => "Pakistan", "continent" => "Asia"),
         "PW" => array( 'alpha2'=>'PW', 'alpha3'=>'PLW', 'num'=>'585', 'isd'=> '680', "name" => "Palau", "continent" => "Oceania"),
-        "PS" => array( 'alpha2'=>'PS', 'alpha3'=>'PSE', 'num'=>'275', 'isd'=> '970', "name" => "Palestinia", "continent" => "Asia"),
+        "PS" => array( 'alpha2'=>'PS', 'alpha3'=>'PSE', 'num'=>'275', 'isd'=> '970', "name" => "Palestine", "continent" => "Asia"),
         "PA" => array( 'alpha2'=>'PA', 'alpha3'=>'PAN', 'num'=>'591', 'isd'=> '507', "name" => "Panama", "continent" => "North America"),
         "PG" => array( 'alpha2'=>'PG', 'alpha3'=>'PNG', 'num'=>'598', 'isd'=> '675', "name" => "Papua New Guinea", "continent" => "Oceania"),
         "PY" => array( 'alpha2'=>'PY', 'alpha3'=>'PRY', 'num'=>'600', 'isd'=> '595', "name" => "Paraguay", "continent" => "South America"),
